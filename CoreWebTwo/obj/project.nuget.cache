@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ow+Ji+V20y67mVVAjS0w7YY3rV3PYJbpJdYgupYL7ucgGQNss6HGhRyp8X0zKKAGXECn5pBtI4WRu3bt4kij8A==",
+  "success": true,
+  "projectFilePath": "D:\\project\\DockerApp\\CoreWebTwo\\CoreWebTwo\\CoreWebTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
